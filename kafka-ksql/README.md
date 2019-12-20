@@ -1,4 +1,4 @@
-# ds_seminar
+# stream processing using kafka and ksql
 Kafka and ksql demo
 
 ### Installation:
